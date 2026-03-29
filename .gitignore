@@ -11,7 +11,6 @@ bin/
 
 # IDEs
 .idea/
-.vscode/
 *.swp
 
 # macOS
@@ -27,3 +26,4 @@ bin/
 !.agents/skills/**
 .agent-mail/
 .amqrc
+.gitignore
